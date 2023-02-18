@@ -1,5 +1,5 @@
 ---
-slug: first-port
+slug: first-post
 title: Начинаю вести свой блог
 authors: [congritta]
 ---
