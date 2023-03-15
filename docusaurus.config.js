@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import("@docusaurus/types").Config} */
 const config = {
-  title: "Alex Congritta Blog",
+  title: "Alex Congritta",
   tagline: "congritta",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://blog.congritta.com",
+  url: "https://congritta.ru",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "congritta", // Usually your GitHub org/user name.
-  projectName: "blog", // Usually your repo name.
+  projectName: "ru-site", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -55,14 +55,14 @@ const config = {
   ],
 
   themeConfig:
-  /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
+    /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
       // Replace with your project's social card
       image: "img/social-card.jpg",
       navbar: {
-        title: "Alex Congritta Blog",
+        title: "Alex Congritta",
         logo: {
-          alt: "Alex Congritta Blog Logo",
+          alt: "Alex Congritta Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -72,12 +72,7 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: "/blog", label: "Блог", position: "left"},
-          {
-            href: "https://congritta.com",
-            label: "Основной сайт",
-            position: "right",
-          },
+          { to: "/blog", label: "Блог", position: "left" },
           {
             href: "https://github.com/congritta",
             label: "GitHub",

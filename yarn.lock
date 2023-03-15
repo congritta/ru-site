@@ -3637,24 +3637,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"blog@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "blog@workspace:."
-  dependencies:
-    "@docusaurus/core": 2.3.1
-    "@docusaurus/module-type-aliases": 2.3.1
-    "@docusaurus/preset-classic": 2.3.1
-    "@docusaurus/types": ^2.3.1
-    "@mdx-js/react": ^1.6.22
-    "@tsconfig/docusaurus": ^1.0.5
-    clsx: ^1.2.1
-    prism-react-renderer: ^1.3.5
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    typescript: ^4.7.4
-  languageName: unknown
-  linkType: soft
-
 "body-parser@npm:1.20.1":
   version: 1.20.1
   resolution: "body-parser@npm:1.20.1"
@@ -4240,6 +4222,24 @@ __metadata:
   checksum: 60ef65d493b63f96e14b11ba7ec072fdbf3d40110a94fb7199d1c287761bdea5c5244e76b2596325f30c1b652213aa75de96ea20afd4a5f82065e61ea090988e
   languageName: node
   linkType: hard
+
+"congritta-ru-site@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "congritta-ru-site@workspace:."
+  dependencies:
+    "@docusaurus/core": 2.3.1
+    "@docusaurus/module-type-aliases": 2.3.1
+    "@docusaurus/preset-classic": 2.3.1
+    "@docusaurus/types": ^2.3.1
+    "@mdx-js/react": ^1.6.22
+    "@tsconfig/docusaurus": ^1.0.5
+    clsx: ^1.2.1
+    prism-react-renderer: ^1.3.5
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    typescript: ^4.7.4
+  languageName: unknown
+  linkType: soft
 
 "connect-history-api-fallback@npm:^2.0.0":
   version: 2.0.0
@@ -10062,11 +10062,11 @@ __metadata:
 
 "typescript@patch:typescript@^4.7.4#~builtin<compat/typescript>":
   version: 4.9.5
-  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=ad5954"
+  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 8f6260acc86b56bfdda6004bc53f32ea548f543e8baef7071c8e34d29d292f3e375c8416556c8de10b24deef6933cd1c16a8233dc84a3dd43a13a13265d0faab
+  checksum: ab417a2f398380c90a6cf5a5f74badd17866adf57f1165617d6a551f059c3ba0a3e4da0d147b3ac5681db9ac76a303c5876394b13b3de75fdd5b1eaa06181c9d
   languageName: node
   linkType: hard
 
