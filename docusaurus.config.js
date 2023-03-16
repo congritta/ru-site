@@ -74,6 +74,12 @@ const config = {
           // },
           { to: "/blog", label: "Блог", position: "left" },
           {
+            to: "/blog/tags/пет-проекты",
+            label: "Пет-проекты",
+            position: "left",
+          },
+          { to: "/faq", label: "FAQ", position: "left" },
+          {
             href: "https://github.com/congritta",
             label: "GitHub",
             position: "right",
