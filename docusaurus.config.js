@@ -72,13 +72,18 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          { to: "/blog", label: "Блог", position: "left" },
+          {to: "/blog", label: "Блог", position: "left"},
           {
             to: "/blog/tags/пет-проекты",
             label: "Пет-проекты",
             position: "left",
           },
-          { to: "/faq", label: "FAQ", position: "left" },
+          {to: "/faq", label: "FAQ", position: "left"},
+          {
+            to: "https://hoolie.org",
+            label: "Hoolie Projects",
+            position: "left",
+          },
           {
             href: "https://github.com/congritta",
             label: "GitHub",
