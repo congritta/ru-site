@@ -95,18 +95,8 @@ const config = {
             position: "right",
           },
           {
-            href: "https://twitter.com/congritta",
-            label: "Twitter",
-            position: "right",
-          },
-          {
             href: "https://www.youtube.com/@congritta",
             label: "YouTube",
-            position: "right",
-          },
-          {
-            href: "https://vk.com/congritta_blog",
-            label: "VK",
             position: "right",
           },
         ],

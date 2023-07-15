@@ -4,7 +4,7 @@ hide_table_of_contents: true
 
 # Alex Congritta
 
-23 года, React/Node разработчик.
+24 года, React/Node разработчик.
 
 ---
 
