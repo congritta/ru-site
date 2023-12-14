@@ -46,11 +46,6 @@ hide_table_of_contents: true
 
 ## Мои проекты
 
-- **Yet Another HTTP** - библиотека для написания REST API. На мой взгляд, в разы лучше
-  Express.JS. [NPM](https://npmjs.com/package/yet-another-http). [GitHub](https://github.com/congritta/yet-another-http). [Документация](https://yah.congritta.com);
-- **Congritta UI**. Мой распределённый UI-фреймворк, состоящий из разных модулей для быстрого создания React-приложений. [Сайт](https://ui.congritta.com);
-- **Talkings Messenger**. Мой собственный мессенджер. В текущее время находится на стадии
-  разработки. [Потрогать](https://git.congritta.com/talkings-frontend). [Github](https://github.com/congritta/talkings-frontend);
 - **Blockchain Bot**. Создал свой блокчейн и криптовалюту на нём. Сделал в виде Telegram
   бот. [Бот](https://t.me/congrittaBlockchainBot). [Github](https://github.com/congritta/blockchain-bot);
 - **Text-to-Speech Bot**. Telegram-бот, преобразовывающий текст в
