@@ -2,7 +2,7 @@
 slug: yet-another-http-0-1-3
 title: Yet Another HTTP v0.1.3
 authors: [congritta]
-tags: [yet-another-http, апдейт]
+tags: [yet-another-http, апдейт, пет-проекты]
 image: ./poster.jpg
 ---
 
@@ -11,6 +11,10 @@ image: ./poster.jpg
 Обновил свой HTTP-фреймворк до версии 0.1.3. В этой статье расскажу что нового, а также что это за фреймворк вообще
 
 <!--truncate-->
+
+:::warning
+Проект закрыт и не обновляется
+:::
 
 ## Что нового в апдейте
 
