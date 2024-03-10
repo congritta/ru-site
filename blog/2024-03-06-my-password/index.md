@@ -14,9 +14,8 @@ date: 2024-03-06T03:00
 
 <!--truncate-->
 
-Ссылка на проект: [mypwd.org](https://mypwd.org)
-<br />
-Исходный код: [mypwd.org](https://github.com/congritta/my-password)
+Ссылка на проект: [mypwd.org](https://mypwd.org) <br />
+Исходный код: [github.com/congritta/my-password](https://github.com/congritta/my-password)
 
 ## В двух словах о проекте
 
