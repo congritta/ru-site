@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[1020],{6939:a=>{a.exports=JSON.parse('{"label":"hoolie-bank","permalink":"/blog/tags/hoolie-bank","allTagsPath":"/blog/tags","count":1}')}}]);

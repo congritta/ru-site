@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[8414],{8340:s=>{s.exports=JSON.parse('{"label":"infosec","permalink":"/blog/tags/infosec","allTagsPath":"/blog/tags","count":2}')}}]);

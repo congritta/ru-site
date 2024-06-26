@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[8461],{6736:a=>{a.exports=JSON.parse('{"label":"hacking","permalink":"/blog/tags/hacking","allTagsPath":"/blog/tags","count":1}')}}]);

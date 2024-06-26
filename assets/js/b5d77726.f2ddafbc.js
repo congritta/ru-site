@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[5741],{4761:t=>{t.exports=JSON.parse('{"label":"\u0431\u0438\u0437\u043d\u0435\u0441","permalink":"/blog/tags/\u0431\u0438\u0437\u043d\u0435\u0441","allTagsPath":"/blog/tags","count":1}')}}]);

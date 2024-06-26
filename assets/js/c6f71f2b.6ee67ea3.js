@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[4491],{8590:t=>{t.exports=JSON.parse('{"label":"frontend","permalink":"/blog/tags/frontend","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[1006],{3399:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/\u0444\u0440\u0438\u043b\u0430\u043d\u0441","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

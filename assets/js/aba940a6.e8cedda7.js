@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[5884],{2277:t=>{t.exports=JSON.parse('{"label":"ci/cd","permalink":"/blog/tags/ci-cd","allTagsPath":"/blog/tags","count":1}')}}]);

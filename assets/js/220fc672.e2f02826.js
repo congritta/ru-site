@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[7603],{8699:e=>{e.exports=JSON.parse('{"label":"hoolie","permalink":"/blog/tags/hoolie","allTagsPath":"/blog/tags","count":1}')}}]);

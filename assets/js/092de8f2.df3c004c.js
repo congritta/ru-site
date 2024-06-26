@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcongritta_ru_site=self.webpackChunkcongritta_ru_site||[]).push([[4744],{9722:a=>{a.exports=JSON.parse('{"label":"plans","permalink":"/blog/tags/plans","allTagsPath":"/blog/tags","count":1}')}}]);
