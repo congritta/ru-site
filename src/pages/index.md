@@ -47,17 +47,7 @@ hide_table_of_contents: true
 
 ## Мои проекты
 
-- **Blockchain Bot**. Создал свой блокчейн и криптовалюту на нём. Сделал в виде Telegram
-  бот. [Бот](https://t.me/congrittaBlockchainBot). [Github](https://github.com/congritta/blockchain-bot);
-- **Text-to-Speech Bot**. Telegram-бот, преобразовывающий текст в
-  речь. [Бот](https://t.me/congrittaTtsBot). [Github](https://github.com/congritta/tts-bot);
-- **Todo App**. Простое Todo приложение, написанное на чистом
-  JavaScript. [Потрогать](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube видео, как я делал это](https://youtu.be/c8iOL_Gq6sM);
-- **Hoolie Auth**. Платформа для единой
-  аутентификации. [Документация/О Проекте](https://auth-docs.hoolie.org). [Демо](https://demo.auth.hoolie.org);
-- **Blockchain Demo**. Маленькое веб-приложение, которое демонстрирует работу
-  блокчейна. [Site](https://git.congritta.com/blockchain-demo). [Github](https://github.com/congritta/blockchain-demo);
-- **Браузерная мультиплеерная игра на Canvas и SocketIO**. [Github](https://github.com/congritta/game-frontend)
+Все имеющиеся пет-проекты закрыты. Новые, более серьёзные проекты, ожидаются позже
 
 ## Контакты
 

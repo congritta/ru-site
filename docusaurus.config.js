@@ -73,11 +73,6 @@ const config = {
           //   label: 'Tutorial',
           // },
           {to: "/blog", label: "Блог", position: "left"},
-          {
-            to: "/blog/tags/пет-проекты",
-            label: "Пет-проекты",
-            position: "left",
-          },
           {to: "/faq", label: "FAQ", position: "left"},
           {
             to: "https://hoolie.org",
@@ -91,8 +86,13 @@ const config = {
           },
           {
             href: "https://t.me/congrittaBlog",
-            label: "Telegram",
+            label: "Telegram-канал",
             position: "right",
+          },
+          {
+            href: "https://t.me/congritta",
+            label: "Telegram",
+            position: "right"
           },
           {
             href: "https://www.youtube.com/@congritta",

@@ -14,7 +14,7 @@ date: 2024-03-11T03:00
 
 <!--truncate-->
 
-Ссылка на демо: [hoc.zaebis.site](https://hoc.zaebis.site) <br />
+Ссылка на демо: [it.congritta.com/hoc](https://git.congritta.com/hoc/) <br />
 Исходный код: [github.com/congritta/hoc](https://github.com/congritta/hoc)
 
 __Работает только на десктопных системах!__
@@ -36,7 +36,8 @@ __Работает только на десктопных системах!__
 
 ## Итоги
 
-Проект хостится на GitHub Pages на домене ([hoc.zaebis.site](https://hoc.zaebis.site)) (не стал для этого проекта
+Проект хостится на GitHub Pages по адресу ([git.congritta.com/hoc](https://git.congritta.com/hoc/)) (не стал для этого
+проекта
 покупать отдельный домен, поэтому он висит на поддомене моего домена zaebis.site). Исходный код проекта открыт и
 доступен на [github.com/congritta/hoc](https://github.com/congritta/hoc). Бэкэнда у проекта нет
 
